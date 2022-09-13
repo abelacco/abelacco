@@ -1,3 +1,5 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
+![image](https://user-images.githubusercontent.com/103460673/190002707-e9dcbbbb-62cb-47c8-90e0-f67ab90e50f4.png)
+
+# **Hi, I am [Abel Acuna](https://www.linkedin.com/in/emanuel-juri/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 

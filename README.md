@@ -54,12 +54,12 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL| Express
 <p>
     <a href="https://emanueljuri@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
-      emanueljuri@gmail.com
+      abel3121@gmail.com
     </a>    
     <br>
-    <a href="https://www.linkedin.com/in/emanuel-juri/">
+    <a href="https://abelacuna.vercel.app/">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
-      Emanuel Juri
+     Abel Acuna
     </a>
 <p/>
 

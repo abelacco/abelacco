@@ -10,8 +10,11 @@ Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lad
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
 </div> 
 
-## Lenguajes y herramientas
-![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
+## Tech and Soft Skills
+
+![image](https://user-images.githubusercontent.com/103460673/190003937-6b1a5176-fa91-44b9-ac92-546f01cd2bec.png)
+
+
 
 ## 📌 Mis Proyectos
 ### Henry Bank :dollar: :credit_card: :chart:

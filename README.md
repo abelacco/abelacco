@@ -41,12 +41,6 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL| Express
 ![image](https://user-images.githubusercontent.com/103460673/190006228-1d57eb1f-3d73-47ce-874c-7890f27640e9.png)
 
 
-<div align="row" >
-      <img src="https://user-images.githubusercontent.com/76783198/184228274-40a58435-e797-48ba-b6cf-e52aa99d3329.png" width="333" height="205"  />
-      <img src="https://user-images.githubusercontent.com/76783198/184225656-63eb4e40-4881-48eb-bd86-c027602173a5.png" width="333" height="205"  />
-      <img src="https://user-images.githubusercontent.com/76783198/184225936-7c59268c-39cf-41ad-8814-7c812aebb098.png" width="333" height="205"  />
-</div>
-
 
 
 ## 📫 Para contactarme 
@@ -58,8 +52,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL| Express
     </a>    
     <br>
     <a href="https://abelacuna.vercel.app/">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
-     Abel Acuna
+     Abel Acuna Web
     </a>
 <p/>
 

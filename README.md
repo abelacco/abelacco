@@ -16,12 +16,11 @@ Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lad
 
 
 
-## 📌 Mis Proyectos
-### Henry Bank :dollar: :credit_card: :chart:
-Henry Bank, es una billetera virtual en formato mobile (apk) desarrollada en React Native.
-Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry.
-En este gran proyecto me desempeñe como Frontend developer y líder técnico de finanzas, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
-Javascript | React Native | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello
+## 📌 Projects
+### Nomade:
+Nomade is a SPA service that lets property owners rent out their spaces to travelers looking for a place to stay, created with MERN stack
+In this great project I worked as a Full Stack developer, working through the SCRUM methodology with the following technologies:<br>
+Javascript | React | CSS | Redux | Node | Mongoose | Mongo | Git Hub | Figma | Trello | NodeJS | Express
 
 Maquetado y prototipado en FIGMA
 <!-- ![Group 7](https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png) -->

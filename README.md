@@ -5,7 +5,7 @@
 
 Developer businnes venturing into the exciting world of programming as a FullStack Developer.<br>
 I like big challenges and I undertake them with passion, commitment and determination.<br>
-Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
+Estoy interesado en el desarrollo web 🖥️ y mobile 📱 , tanto desde el lado de Front-end como del Back-end.<br>
 
 ## Tech and Soft Skills
 

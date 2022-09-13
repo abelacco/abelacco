@@ -22,15 +22,8 @@ Nomade is a SPA service that lets property owners rent out their spaces to trave
 In this great project I worked as a Full Stack developer, working through the SCRUM methodology with the following technologies:<br>
 Javascript | React | CSS | Redux | Node | Mongoose | Mongo | Git Hub | Figma | Trello | NodeJS | Express
 
-Maquetado y prototipado en FIGMA
-<!-- ![Group 7](https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png) -->
-<img src="https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png" width="50%" height="50%"  />
+![image](https://user-images.githubusercontent.com/103460673/190005140-6988feba-dcaa-439a-b6d9-f41fbc84325e.png)
 
-![figma](https://user-images.githubusercontent.com/76783198/182469139-32ef23d0-b7a2-4592-bd67-71571cdeae13.svg)
-
-Aplicación compilada
-
-![HB](https://user-images.githubusercontent.com/76783198/182479399-555929e3-7261-4e4f-b950-e08521bcfa66.png)
 
 
 ### Henry Dogs :dog: :service_dog: :dog2:

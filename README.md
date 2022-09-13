@@ -23,7 +23,7 @@ In this great project I worked as a Full Stack developer, working through the SC
 Javascript | React | CSS | Redux | Node | Mongoose | Mongo | Git Hub | Figma | Trello | NodeJS | Express
 
 <a href="https://nomade-khaki.vercel.app/" fontSize="34">Nomade deploy</a>
-<a href="[https://github.com/abelacco/PI-DOGS-FINAL](https://github.com/josefina17888/nomade)">Repo</a>
+<a href="https://github.com/josefina17888/nomade">Repo</a>
 
 ![image](https://user-images.githubusercontent.com/103460673/190005140-6988feba-dcaa-439a-b6d9-f41fbc84325e.png)
 

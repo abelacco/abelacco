@@ -23,47 +23,31 @@ In this great project I worked as a Full Stack developer, working through the SC
 Javascript | React | CSS | Redux | Node | Mongoose | Mongo | Git Hub | Figma | Trello | NodeJS | Express
 
 <a href="https://nomade-khaki.vercel.app/" fontSize="34">Nomade deploy</a>
+<a href="[https://github.com/abelacco/PI-DOGS-FINAL](https://github.com/josefina17888/nomade)">Repo</a>
 
 ![image](https://user-images.githubusercontent.com/103460673/190005140-6988feba-dcaa-439a-b6d9-f41fbc84325e.png)
 
 
 
 ### Henry Dogs :dog: :service_dog: :dog2:
-Single-page application enfocada en las razas de perros de todo el mundo.<br>
-Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
-Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
+Dogs is SPA lets user find o create breed of dogs,created with PERN stack<br>
+I worked as a Full Stack developer, with the following technologies:<br>
+Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL| Express<br>
 
-<a href="https://henry-dogs-brown.vercel.app/" fontSize="34">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
-      Henry Dogs Deploy
-</a>
+<a href="https://pi-dogs-final-nu.vercel.app/" fontSize="34">Henry Dogs Deploy</a>
 </br></br>
-<a href="https://github.com/EmanuelJuri/HenryDogs.git">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
-      Link a repo
-</a>
+<a href="https://github.com/abelacco/PI-DOGS-FINAL">Repo</a>
 </br>
+![image](https://user-images.githubusercontent.com/103460673/190006228-1d57eb1f-3d73-47ce-874c-7890f27640e9.png)
+
+
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/76783198/184228274-40a58435-e797-48ba-b6cf-e52aa99d3329.png" width="333" height="205"  />
       <img src="https://user-images.githubusercontent.com/76783198/184225656-63eb4e40-4881-48eb-bd86-c027602173a5.png" width="333" height="205"  />
       <img src="https://user-images.githubusercontent.com/76783198/184225936-7c59268c-39cf-41ad-8814-7c812aebb098.png" width="333" height="205"  />
 </div>
 
-### Weather App :thermometer: :sun_with_face: :cloud_with_snow: :cloud_with_lightning: :rainbow:
-The Weather App, es una spa construida con React, que permite obtener el pronóstico del tiempo de cualquier ciudad..<br>
-Desarrolle esta aplicación, con las siguientes tecnologías:<br>
-Javascript | HTML | CSS | React | Redux <br>
 
-<a href="https://weather-app-emanueljuri.vercel.app/" fontSize="34">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
-      Weather App Deploy
-</a>
-</br></br>
-<a href="https://github.com/EmanuelJuri/Weather-App.git">
-      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
-      Link a repo
-</a>
-</br><img src="https://user-images.githubusercontent.com/76783198/187048550-ab336e90-d3bb-4806-9c57-dcfa1b23df3c.png" width="75%" height="75%" />
 
 ## 📫 Para contactarme 
 

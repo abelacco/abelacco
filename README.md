@@ -43,7 +43,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL| Express
 
 
 
-## 📫 Para contactarme 
+## 📫 Get in touch
 
 <p>
     <a href="https://emanueljuri@gmail.com">

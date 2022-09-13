@@ -3,8 +3,8 @@
 
 # **Hi, I am [Abel Acuna](https://www.linkedin.com/in/emanuel-juri/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
-Ingeniero electromecánico incursionando en el apasionante mundo de la programación como FullStack Developer.<br>
-Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
+Developer businnes venturing into the exciting world of programming as a FullStack Developer.<br>
+I like big challenges and I undertake them with passion, commitment and determination.<br>
 Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
 <div align="center" >
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />

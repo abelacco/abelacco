@@ -22,6 +22,11 @@ Nomade is a SPA service that lets property owners rent out their spaces to trave
 In this great project I worked as a Full Stack developer, working through the SCRUM methodology with the following technologies:<br>
 Javascript | React | CSS | Redux | Node | Mongoose | Mongo | Git Hub | Figma | Trello | NodeJS | Express
 
+<a href="https://henry-dogs-brown.vercel.app/" fontSize="34">
+      <img align="center" src="https://nomade-khaki.vercel.app/" width="30" height="30"/>
+      Nomade deploy
+</a>
+
 ![image](https://user-images.githubusercontent.com/103460673/190005140-6988feba-dcaa-439a-b6d9-f41fbc84325e.png)
 
 
